@@ -1,7 +1,12 @@
-### Hi there 👋
+### Developer since 2022 💻
+
+Hi there, I'm Backend developer
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuclidesVit&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuclidesVit&theme=tokyonight&hide=contribs,prs)
 
 <!--
-**EuclidesVit/EuclidesVit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EuclidesVit/EuclidesVit is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
