@@ -1,6 +1,6 @@
 ### Developer since 2022 💻
 
-Hi there, I'm Backend developer
+Hi there, I'm  developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuclidesVit&theme=tokyonight&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuclidesVit&theme=tokyonight&hide=contribs,prs)
